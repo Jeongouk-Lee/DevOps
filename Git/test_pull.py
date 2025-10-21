@@ -1,2 +1,2 @@
 print("test_pull")
-print("test_update_pill")
+print("test_pull_update")
