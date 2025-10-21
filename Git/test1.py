@@ -1,3 +1,1 @@
-print("hello git1")
-print("hello git2")
-print("hello git3")
+print("hello git test")
